@@ -1,0 +1,3 @@
+Number of line = 7
+Number of words = 133
+Number of character = 845
