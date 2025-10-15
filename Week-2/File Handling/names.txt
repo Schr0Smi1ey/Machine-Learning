@@ -1,0 +1,31 @@
+ alice 
+BOB
+Charlie
+david
+ALICE
+  eve  
+frank
+  GrAcE  
+harry
+  BOB  
+IRIS
+ jack  
+katherine
+  LUCY  
+michael
+nancy
+  AlIcE  
+ oscar  
+PATRICIA
+  quinn  
+RACHEL
+sam
+  BOB  
+tina
+  UrSuLa  
+victor
+  WENDY  
+xavier
+  YVONNE  
+zachary
+  charlie  
